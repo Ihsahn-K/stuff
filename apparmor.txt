@@ -1,1 +1,1 @@
-systemctl disable --new apparmor
+systemctl disable --now apparmor
